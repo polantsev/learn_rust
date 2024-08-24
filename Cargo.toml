@@ -6,6 +6,6 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [
+members = ["rust_book/guessing_game",
     "session1/hello_world", "session1/variables",
 ]
